@@ -1,6 +1,5 @@
-CS student from Israel 🇮🇱 who loves working with and learning about C/C++.
-
-Working on things I find interesting when I've got time from college.
+<p>CS student from Israel 🇮🇱 who loves working with and learning about C/C++.</p>
+<p>Working on things I find interesting when I've got time from college.</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
